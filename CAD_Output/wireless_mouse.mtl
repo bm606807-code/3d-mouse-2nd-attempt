@@ -1,0 +1,9 @@
+# Materials for wireless_mouse.obj
+newmtl mat_mouse
+Ka 0 0 0
+Kd 0.1300 0.1300 0.1400
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+

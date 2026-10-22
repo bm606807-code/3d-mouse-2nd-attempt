@@ -1,0 +1,132 @@
+{
+  "solid": {
+    "brep_valid": true,
+    "n_solids": 1,
+    "n_shells": 1,
+    "closed_shells": true,
+    "volume_mm3": 154604.84,
+    "surface_area_mm2": 19638.65,
+    "bbox_min": [
+      -52.5,
+      -30.02,
+      0.0
+    ],
+    "bbox_max": [
+      52.5,
+      30.512,
+      37.978
+    ],
+    "bbox_size": [
+      105.0,
+      60.532,
+      37.978
+    ]
+  },
+  "stl_mesh": {
+    "triangles": 92202,
+    "vertices": 46101,
+    "watertight": true,
+    "winding_consistent": true,
+    "outward_normals(volume>0)": true,
+    "degenerate_faces": 0,
+    "bodies": 1,
+    "euler_number": 0,
+    "mesh_volume_mm3": 153634.76,
+    "mesh_area_mm2": 19643.72
+  },
+  "assembly_parts": {
+    "top_shell": {
+      "volume_mm3": 14883.3,
+      "valid": true
+    },
+    "scroll_wheel": {
+      "volume_mm3": 1279.5,
+      "valid": true
+    },
+    "side_button_front": {
+      "volume_mm3": 103.1,
+      "valid": true
+    },
+    "side_button_rear": {
+      "volume_mm3": 102.7,
+      "valid": true
+    },
+    "pcb": {
+      "volume_mm3": 2997.4,
+      "valid": true
+    },
+    "pcb_components": {
+      "volume_mm3": 885.6,
+      "valid": true
+    },
+    "pcb_switch_plungers": {
+      "volume_mm3": 10.9,
+      "valid": true
+    },
+    "battery": {
+      "volume_mm3": 5858.7,
+      "valid": true
+    },
+    "battery_cap": {
+      "volume_mm3": 2332.1,
+      "valid": true
+    },
+    "base": {
+      "volume_mm3": 13983.1,
+      "valid": true
+    },
+    "pcb_sensor_lens": {
+      "volume_mm3": 7.8,
+      "valid": true
+    },
+    "switch_knob": {
+      "volume_mm3": 12.0,
+      "valid": true
+    },
+    "battery_door": {
+      "volume_mm3": 1526.8,
+      "valid": true
+    },
+    "foot_1": {
+      "volume_mm3": 55.3,
+      "valid": true
+    },
+    "foot_2": {
+      "volume_mm3": 55.3,
+      "valid": true
+    },
+    "foot_3": {
+      "volume_mm3": 48.6,
+      "valid": true
+    },
+    "foot_4": {
+      "volume_mm3": 48.6,
+      "valid": true
+    },
+    "usb_receiver": {
+      "volume_mm3": 575.0,
+      "valid": true
+    },
+    "usb_receiver_plug": {
+      "volume_mm3": 351.9,
+      "valid": true
+    }
+  },
+  "assembly_overlaps_mm3": {},
+  "export_failures": {},
+  "parameters": {
+    "LENGTH": 105.0,
+    "WIDTH": 60.0,
+    "HEIGHT": 38.0,
+    "TOP_FILLET_R": 7.0,
+    "BASE_FILLET_R": 1.0,
+    "WHEEL_D": 17.0,
+    "WHEEL_W": 6.0,
+    "SPLIT_GAP": 0.5,
+    "SIDE_BTN": [
+      14.5,
+      6.0
+    ],
+    "FEET_H": 1.0
+  }
+}

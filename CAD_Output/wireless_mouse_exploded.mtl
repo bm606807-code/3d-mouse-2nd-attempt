@@ -1,0 +1,153 @@
+# Materials for wireless_mouse_exploded.obj
+newmtl mat_top_shell
+Ka 0 0 0
+Kd 0.1300 0.1300 0.1400
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_scroll_wheel
+Ka 0 0 0
+Kd 0.0500 0.0500 0.0500
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_side_button_front
+Ka 0 0 0
+Kd 0.1300 0.1300 0.1400
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_side_button_rear
+Ka 0 0 0
+Kd 0.1300 0.1300 0.1400
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_pcb
+Ka 0 0 0
+Kd 0.0500 0.4200 0.1800
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_pcb_components
+Ka 0 0 0
+Kd 0.1000 0.1000 0.1000
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_pcb_switch_plungers
+Ka 0 0 0
+Kd 0.7500 0.7500 0.7800
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_battery
+Ka 0 0 0
+Kd 0.0800 0.0800 0.0800
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_battery_cap
+Ka 0 0 0
+Kd 0.8500 0.6500 0.2000
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_base
+Ka 0 0 0
+Kd 0.0700 0.0700 0.0800
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_pcb_sensor_lens
+Ka 0 0 0
+Kd 0.5500 0.7500 0.8500
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_switch_knob
+Ka 0 0 0
+Kd 0.1800 0.1800 0.1900
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_battery_door
+Ka 0 0 0
+Kd 0.0700 0.0700 0.0800
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_foot_1
+Ka 0 0 0
+Kd 0.1800 0.1800 0.1900
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_foot_2
+Ka 0 0 0
+Kd 0.1800 0.1800 0.1900
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_foot_3
+Ka 0 0 0
+Kd 0.1800 0.1800 0.1900
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_foot_4
+Ka 0 0 0
+Kd 0.1800 0.1800 0.1900
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_usb_receiver
+Ka 0 0 0
+Kd 0.0500 0.0500 0.0500
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
+newmtl mat_usb_receiver_plug
+Ka 0 0 0
+Kd 0.7500 0.7500 0.7800
+Ks 0.15 0.15 0.15
+Ns 40
+d 1.000
+illum 2
+
